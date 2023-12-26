@@ -39,7 +39,7 @@ Este projeto tem como foco proporcionar um entendimento prático e aprofundado d
 3. Abra o projeto em sua IDE de preferência.
 4. Execute a aplicação e teste as rotas usando o Insomnia.
 
-Lembre-se de configurar o ambiente e o banco de dados conforme especificado no curso.
+Lembre-se de configurar o ambiente e o banco de dados conforme especificado.
 
 Aproveite!
 
